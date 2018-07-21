@@ -5,4 +5,4 @@ Beans
 apples
 almonds
 beetroot juice
-egg
+eggs
